@@ -1,0 +1,9 @@
+H:\ProjectsC#\CryptographyForm\CryptographyForm\bin\Debug\CryptographyForm.exe.config
+H:\ProjectsC#\CryptographyForm\CryptographyForm\bin\Debug\CryptographyForm.exe
+H:\ProjectsC#\CryptographyForm\CryptographyForm\bin\Debug\CryptographyForm.pdb
+H:\ProjectsC#\CryptographyForm\CryptographyForm\obj\Debug\CryptographyForm.csprojResolveAssemblyReference.cache
+H:\ProjectsC#\CryptographyForm\CryptographyForm\obj\Debug\CryptographyForm.Form1.resources
+H:\ProjectsC#\CryptographyForm\CryptographyForm\obj\Debug\CryptographyForm.Properties.Resources.resources
+H:\ProjectsC#\CryptographyForm\CryptographyForm\obj\Debug\CryptographyForm.csproj.GenerateResource.Cache
+H:\ProjectsC#\CryptographyForm\CryptographyForm\obj\Debug\CryptographyForm.exe
+H:\ProjectsC#\CryptographyForm\CryptographyForm\obj\Debug\CryptographyForm.pdb
